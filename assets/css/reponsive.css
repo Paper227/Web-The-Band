@@ -1,0 +1,60 @@
+/* Reponsive Mobile */
+@media (max-width:740px) {
+    #nav {
+        display: block;
+    }
+
+    #nav > li {
+        display:block;  
+    }
+
+    #nav > li:first-child {
+        display: inline-block;
+    }
+
+    #nav .subnav {
+        position: initial;
+        background-color: #333;
+  
+    }
+
+    #nav .subnav a {
+        color: #fff;
+        padding: 0px 41px;
+    }
+
+    #header {
+        overflow: hidden;
+    }
+    #header .mobile-menu-btn {
+        display: block;
+    }
+
+    #header .search-btn {
+        display: none;
+    }  
+    
+    #content .members-list .mobile-reponsive {
+        margin-top: 32px;
+        width: 100%;
+    }
+
+    #content .member-img {
+        width: 60%;
+    }
+
+    .place-mobile-reponsive {
+        width: 100%;
+        margin-top: 16px;
+    }
+
+    .s-mobile-reponsive {
+        width: 100%;
+        margin-top: 8px;
+    }
+
+    .send-full-width {
+        width: 100%;
+    }
+
+}
