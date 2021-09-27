@@ -1,2 +1,2 @@
 # Web-The-Band
-Đây là web Thư Band
+Đây là web The Band
